@@ -8,8 +8,10 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=Simer00&label=Profile%20views&color=0e75b6&style=flat-square" alt="simer00" />
  
-  <h1>Public Projects</h1> 
+  <h1>Projects</h1> 
   
   | Project           | URL                        | Description                                         |
   |:-----------------:|:--------------------------:|:---------------------------------------------------:|
+  | Simer's Bot       |https://Simer00/repl.co     | Personal Discord Bot with Browser Games             |
+  | Youtube Downloader|https://repl.it/@Simer00/Youtube-Video-Downloader?v=1 | Simple. Aesthetic. Useful.|
 </div>
