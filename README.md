@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Simer00</h1>  
-  <img src="https://github-readme-stats.vercel.app/api?username=Simer00&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=a020f0&text_color=61dafb&title_color=a020f0" alt="simer00" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simer00&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=a020f0&text_color=a020f0&title_color=a020f0" alt="simer00" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simer00&theme=dark&hide_border=true" alt="simer00" />
   <br>
