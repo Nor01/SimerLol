@@ -1,12 +1,20 @@
 <div align="center">
   <h1>Hi 👋, I'm Simer00</h1>  
-   <img src="https://github-readme-stats.vercel.app/api?username=Simer00&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=00ffff&text_color=61dafb&title_color=00ffff" alt="simer00" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Simer00&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=00ffff&text_color=61dafb&title_color=00ffff" alt="Simer00" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simer00&theme=dark&hide_border=true" alt="simer00" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simer00&theme=dark&hide_border=true" alt="Github Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simer00&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="simer00" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simer00&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Simer00&label=Profile%20views&color=0e75b6&style=flat-square" alt="simer00" />
+  <img src="https://komarev.com/ghpvc/?username=Simer00&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views Counter" />
+  <br>
+  <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
  
   <h1>Projects</h1> 
   
