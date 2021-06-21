@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Simer00</h1>  
+  <h1>Hi 👋, I'm Simer</h1>  
    <img src="https://github-readme-stats.vercel.app/api?username=Simer00&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=00ffff&text_color=61dafb&title_color=00ffff" alt="Simer00" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simer00&theme=dark&hide_border=true" alt="Github Stats" />
