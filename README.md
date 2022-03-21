@@ -1,27 +1,62 @@
-<div align="center">
-  <h1>Hi 👋, I'm Simer</h1>  
-   <img src="https://github-readme-stats.vercel.app/api?username=JustCodeable&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=00ffff&text_color=61dafb&title_color=00ffff" alt="JustCodeable" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustCodeable&theme=dark&hide_border=true" alt="Github Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustCodeable&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
-  <br>
-  <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
-   <br>
-  <img src="https://komarev.com/ghpvc/?username=JustCodeable&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views Counter" />
+## Hello, I'm Simer 👋
+I do all kinds of stuff that has something to do with programming.
+
+<img src="https://discord.c99.nl/widget/theme-2/855466008852824094.png"/>
+
+- 🔭 I’m actively working on [Acceleration Studios](https://github.com/AcceleratedDevs), [Mirucraft](https://github.com/AcceleratedDevs/Mirucraft) and other cool private projects.
+- ⚡ Fun fact: I didn't make this bio but you are reading it as if its my perpective ;).
+<details>
+  <summary> - 📫 My Contacts:</summary>
+  <a href="https://twitter.com/justsimer">Twitter</a><br>
+  <a href="https://discord.com/users/855466008852824094">Discord</a><br>
  
-  <h1>Projects</h1> 
-  
-  | Project           | URL                        | Description                                         |
-  |:-----------------:|:--------------------------:|:---------------------------------------------------:|
-  | Simer's Bot       |https://Simer00.repl.co     | Personal Discord Bot with Browser Games             |
-  | Youtube Downloader|https://repl.it/@Simer00/Youtube-Video-Downloader?v=1 | Simple. Aesthetic. Useful.|
-  | AdminFilterBypass |https://AdminFilterBypass.simer00.repl.co | Bypass Your Internet Filter |
-  | Interactive Particles | https://Interactive-Particles.simer00.repl.co | ThreeJS Based Text Animations | 
-</div> 
+</details>
+
+[![Twitter: JustSimer](https://img.shields.io/twitter/follow/zebraticyt?style=social)](https://twitter.com/justsimer)
+[![GitHub JustSimer](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/justsimer)
+[![Website](https://img.shields.io/badge/Website-zebratic.xyz-2648ff?style=flat-square&logo=google-chrome)](https://Simer00.repl.co)
+
+**Languages and Tools:**  
+
+<code><a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a></code>
+<code><img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></code>    
+
+<a href="https://github.com/JustSimer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustSimer&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/JustSimer">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustSimer&show_icons=true&theme=dark&line_height=27" alt="Simer's github stats"/>
+</a>
+
+
+<a href="https://github.com/JustSimer/Keylogger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustSimer&repo=Keylogger&theme=dark" />
+</a>
+
+<a href="https://github.com/JustSimer/Password-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustSimer&repo=Password-Generator&theme=dark" />
+</a>
+
+<a href="https://github.com/JustSimer/Interactive-Particles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustSimer&repo=Interactive-Particles&theme=dark" />
+</a>
+
+<a href="https://github.com/JustSimer/AdminFilterBypasser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustSimer&repo=AdminFilterBypasser&theme=dark" />
+</a>
+
+<a href="https://github.com/JustSimer/TTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustSimer&repo=TTS&theme=dark" />
+</a>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
