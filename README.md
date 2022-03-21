@@ -2,8 +2,8 @@
 
 ![](https://pbs.twimg.com/profile_banners/1440511508664881157/1647665369/1500x500)
 <div align="center">
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-<img src="https://discord.c99.nl/widget/theme-2/855466008852824094.png"/>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.<br>
+<img src="https://discord.c99.nl/widget/theme-2/855466008852824094.png"/> <br>
 Skills: ReactJS, HTML5, CSS, JS, Python, NodeJS, 
 
 - 🔭 I’m currently working on [Acceleration Studios.](https://github.com/AcceleratedDevs)
