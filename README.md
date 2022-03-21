@@ -17,7 +17,7 @@ I do all kinds of stuff that has something to do with programming.
 [![Website](https://img.shields.io/badge/Website-Simer00.repl.co-2648ff?style=flat-square&logo=google-chrome)](https://Simer00.repl.co)
 
 <div align="center">
-**Languages and Tools:**  
+  <b>Languages and Tools:</b>
 
 <code><a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a></code>
 <code><img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white"></code>
