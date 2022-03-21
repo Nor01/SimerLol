@@ -5,6 +5,7 @@ I do all kinds of stuff that has something to do with programming.
 
 - 🔭 I’m actively working on [Acceleration Studios](https://github.com/AcceleratedDevs), [Mirucraft](https://github.com/AcceleratedDevs/Mirucraft) and other cool private projects.
 - ⚡ Fun fact: I didn't make this bio but you are reading it as if its my perpective ;).
+<div align="center">
 <details>
   <summary> - 📫 My Contacts:</summary>
   <a href="https://twitter.com/justsimer">Twitter</a><br>
