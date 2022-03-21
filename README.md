@@ -1,3 +1,4 @@
+<div align="center">
 ## Hello, I'm Simer 👋
 I do all kinds of stuff that has something to do with programming.
 
@@ -33,7 +34,6 @@ I do all kinds of stuff that has something to do with programming.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustSimer&show_icons=true&theme=dark&line_height=27" alt="Simer's github stats"/>
 </a>
 
-<div align="center">
 <a href="https://github.com/JustSimer/Keylogger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustSimer&repo=Keylogger&theme=dark" />
 </a>
