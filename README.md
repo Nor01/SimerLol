@@ -1,6 +1,6 @@
 ## Hello, I'm Simer 👋
 <div align="center">
-I do all kinds of stuff that has something to do with programming.
+I do all kinds of stuff that has something to do with programming. <br>
 
 <img src="https://discord.c99.nl/widget/theme-2/855466008852824094.png"/>
 
