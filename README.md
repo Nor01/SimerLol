@@ -14,7 +14,7 @@ I do all kinds of stuff that has something to do with programming.
 
 [![Twitter: JustSimer](https://img.shields.io/twitter/follow/zebraticyt?style=social)](https://twitter.com/justsimer)
 [![GitHub JustSimer](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/justsimer)
-[![Website](https://img.shields.io/badge/Website-zebratic.xyz-2648ff?style=flat-square&logo=google-chrome)](https://Simer00.repl.co)
+[![Website](https://img.shields.io/badge/Website-Simer00.repl.co-2648ff?style=flat-square&logo=google-chrome)](https://Simer00.repl.co)
 
 **Languages and Tools:**  
 
