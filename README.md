@@ -33,7 +33,7 @@ I do all kinds of stuff that has something to do with programming.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustSimer&show_icons=true&theme=dark&line_height=27" alt="Simer's github stats"/>
 </a>
 
-
+<div align="center">
 <a href="https://github.com/JustSimer/Keylogger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustSimer&repo=Keylogger&theme=dark" />
 </a>
@@ -53,7 +53,7 @@ I do all kinds of stuff that has something to do with programming.
 <a href="https://github.com/JustSimer/TTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustSimer&repo=TTS&theme=dark" />
 </a>
-
+</div>
 
 <div align="center">
 
