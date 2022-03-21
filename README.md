@@ -1,7 +1,7 @@
 ### Hello, I'm Simer👋
-<div align="center">
-![](https://pbs.twimg.com/profile_banners/1440511508664881157/1647665369/1500x500)
 
+![](https://pbs.twimg.com/profile_banners/1440511508664881157/1647665369/1500x500)
+<div align="center">
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: ReactJS, HTML5, CSS, JS, Python, NodeJS, 
