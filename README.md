@@ -1,7 +1,7 @@
 ### Hello, I'm Simer👋
 
 <img src="https://pbs.twimg.com/profile_banners/1440511508664881157/1647665369/1500x500" border-radius="50%">
-<div class="water" align="center">
+<div align="center" style="background-image: url('https://i.pinimg.com/736x/2d/6e/8c/2d6e8cb9ff903c9516c2125277fff3b1.jpg');">
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 Skills: ReactJS, HTML5, CSS, JS, Python, NodeJS, 
 
@@ -22,10 +22,3 @@ Skills: ReactJS, HTML5, CSS, JS, Python, NodeJS,
 ![Profile views](https://gpvc.arturio.dev/JustSimer)  
   
  </div>
-
-(setq markdown-xhtml-header-content
-      "<style>
-div {
-  background-image: url("https://i.pinimg.com/736x/2d/6e/8c/2d6e8cb9ff903c9516c2125277fff3b1.jpg");
-}
-</style>")
