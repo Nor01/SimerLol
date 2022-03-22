@@ -1,13 +1,3 @@
-
----
-title: "Example of Using a Banner Image with RMarkdown"
-author: "Thaufus"
-date: "12/1/2019"
-output: 
-  html_document:
-    css: CSSBackgrounds.css
----
-
 ### Hello, I'm Simer👋
 
 <img src="https://pbs.twimg.com/profile_banners/1440511508664881157/1647665369/1500x500" border-radius="50%">
