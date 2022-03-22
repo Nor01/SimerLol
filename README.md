@@ -25,7 +25,7 @@ Skills: ReactJS, HTML5, CSS, JS, Python, NodeJS,
 
 (setq markdown-xhtml-header-content
       "<style>
-.water {
+div {
   background-image: url("https://i.pinimg.com/736x/2d/6e/8c/2d6e8cb9ff903c9516c2125277fff3b1.jpg");
 }
 </style>")
