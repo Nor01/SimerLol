@@ -5,7 +5,7 @@
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 Skills: ReactJS, HTML5, CSS, JS, Python, NodeJS, 
 
-- 🔭 I’m currently working on [Acceleration Studios.](https://github.com/AcceleratedDevs)
+- 🔭 I’m currently working on Summit Saga and [Acceleration Studios.](https://github.com/AcceleratedDevs)
 - 😄 Pronouns: Steal/Code 
 - ⚡ Fun fact: I didn't write this bio, but you are reading this from my perspective. 
 
