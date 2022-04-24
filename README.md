@@ -4,8 +4,8 @@
 <div align="center" style="background-image: url('https://i.pinimg.com/736x/2d/6e/8c/2d6e8cb9ff903c9516c2125277fff3b1.jpg');">
 
 - 🔭 I’m currently working on Summit Saga, [Acceleration Studios.](https://github.com/AcceleratedDevs), Custom CDN, DiscordBots etc.
+- 💪 Skills: ReactJS, HTML5, CSS, JS, Python, NodeJS, Flutter, Bash
 - 😄 Pronouns: Steal/Code 
-- 💪 Skills: ReactJS, HTML5, CSS, JS, Python, NodeJS, 
 - ⚡ Fun fact: I didn't write this bio, but you are reading this from my perspective. 
 
  <br><img src="https://discord.c99.nl/widget/theme-2/960090126065750086.png"/><br>
