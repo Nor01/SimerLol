@@ -2,11 +2,10 @@
 
 <img src="https://pbs.twimg.com/profile_banners/1506249926699020290/1649737516/1500x500" border-radius="50%">
 <div align="center" style="background-image: url('https://i.pinimg.com/736x/2d/6e/8c/2d6e8cb9ff903c9516c2125277fff3b1.jpg');">
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-Skills: ReactJS, HTML5, CSS, JS, Python, NodeJS, 
 
 - 🔭 I’m currently working on Summit Saga, [Acceleration Studios.](https://github.com/AcceleratedDevs), Custom CDN, DiscordBots etc.
 - 😄 Pronouns: Steal/Code 
+- 💪 Skills: ReactJS, HTML5, CSS, JS, Python, NodeJS, 
 - ⚡ Fun fact: I didn't write this bio, but you are reading this from my perspective. 
 
  <br><img src="https://discord.c99.nl/widget/theme-2/960090126065750086.png"/><br>
