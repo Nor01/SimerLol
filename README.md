@@ -19,5 +19,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SimerLol&theme=algolia)  
 
 ![Profile views](https://gpvc.arturio.dev/SimerLol)  
+ 
+ ![Charizard](charizard.gif)  
   
  </div>
