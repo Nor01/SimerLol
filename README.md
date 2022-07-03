@@ -8,7 +8,7 @@
 - 😄 Pronouns: Steal/Code 
 - ⚡ Fun fact: I didn't write this bio, but you are reading this from my perspective. 
 
- <br><img src="https://discord.c99.nl/widget/theme-2/960090126065750086.png"/><br>
+<!--- <br><img src="https://discord.c99.nl/widget/theme-2/960090126065750086.png"/><br> -->
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SimerLol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SimerLol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/SimerLol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SimerLol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](SimerLol.repl.co)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](httos://stackoverflow.com/SimerLol)  
 
